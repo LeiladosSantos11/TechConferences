@@ -1,0 +1,103 @@
+
+
+  #first-page {
+    background-image:url('../Img/art.jpg');
+    height: auto;
+   max-width: 100%;
+    background-size: cover;
+    background-position:fixed;
+    background-color: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.8;
+    align-items: center;
+   text-align: center;
+   font-weight: 300;
+   }
+ #first-page h1{
+     color:white;
+    padding: 10px;
+    font-size: 33px;
+    text-transform: uppercase;
+    text-align: center;
+    text-emphasis: bold;
+    font-family: sans-serif;
+    font-weight: 400;
+    width: 440px;
+    position: absolute;
+    text-transform: uppercase;
+    margin-left: 450px;
+    margin-top: 350px;
+    background-color: rgba(0,0,0,0.6);
+display: block;
+ }
+
+   #btn {
+    border-color:;
+    color: wheat;
+    background-color: orangered;
+    margin-left: 100px;
+    margin-top: 550px;
+    padding: 12px,30px;
+    width:12%;
+  }
+
+  #second-page {
+background-color: white;
+height: auto;
+width: 85%;
+   display: flex;
+   margin-right: 200px;
+   margin-left: 100px;
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-weight: 400;
+   flex-direction: column;
+  }
+
+  #second-page h1{
+    margin-top:30px;
+    margin-bottom:10px;
+    text-align: center;
+    font-size: 60px;
+  }
+  
+  #second-page h3{
+    text-align: center;
+    font-size: 30px; 
+  }
+
+
+#second-page p{
+display: flex;
+margin-right: 150px;
+font-size: 35px;
+  }
+  
+  #second-page li{
+   
+    font-size: 30px;
+      }
+    
+  #map {
+    background-image:url('../Img/map2.jpg');
+    height: 100vh;
+   max-width:100%;
+    background-size: cover;
+    background-position:fixed;
+    background-color: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.8;
+    display: flex;
+   margin: auto;
+   }
+#map h1{
+color: bisque;
+}
+
+#go {
+  color: azure;
+  font-weight: 100px;
+}
+  
+
+ 
